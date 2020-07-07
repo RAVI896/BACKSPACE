@@ -3,4 +3,5 @@ git is lighter weight
 git is the open source
 git push origen master
 git commit -m origin master
-
+git push origen master
+git fetch origen master
