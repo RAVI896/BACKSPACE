@@ -1,3 +1,6 @@
 git is the popular
 git is lighter weight 
 git is the open source
+git push origen master
+git commit -m origin master
+
