@@ -5,3 +5,4 @@ git push origen master
 git commit -m origin master
 git push origen master
 git fetch origen master
+git fetch the commit the file name in singe line of this show ing the commit -m  your commit filein in how many times
