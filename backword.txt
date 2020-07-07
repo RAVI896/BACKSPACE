@@ -5,3 +5,4 @@ git push origen master
 git commit -m origin master
 git push origen master
 git fetch origen master
+git push +fetch the files in locale files is good one
