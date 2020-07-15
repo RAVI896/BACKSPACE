@@ -9,4 +9,9 @@ git fetch origen master
 git push +fetch the files in locale files is good one
 =======
 git fetch the commit the file name in singe line of this show ing the commit -m  your commit filein in how many times
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/master
+=======
+***************
+my new commit will be in re join
+>>>>>>> 2077bcad12b2eac9d7ef48115bfbfd7d46145e99
