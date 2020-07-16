@@ -8,3 +8,4 @@ git fetch origen master
 git fetch the commit the file name in singe line of this show ing the commit -m  your commit filein in how many times
 ***************
 my new commit will be in re join
+my git fetch+git pull
