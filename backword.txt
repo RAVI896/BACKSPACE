@@ -14,4 +14,8 @@ git fetch the commit the file name in singe line of this show ing the commit -m 
 =======
 ***************
 my new commit will be in re join
+<<<<<<< HEAD
 >>>>>>> 2077bcad12b2eac9d7ef48115bfbfd7d46145e99
+=======
+my git fetch+git pull
+>>>>>>> a76f8c26363862e820e4f76fd6abfaa5b6851d31
