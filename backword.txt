@@ -27,4 +27,5 @@ wat is the git pull and git push
 git pull the ************
 git pull=git fetch+git merge
 first we will do the git fetch the commend after we will do the git merge
-
+************
+my git pull the one more c nerio
