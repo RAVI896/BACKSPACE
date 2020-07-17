@@ -19,3 +19,7 @@ my new commit will be in re join
 =======
 my git fetch+git pull
 >>>>>>> a76f8c26363862e820e4f76fd6abfaa5b6851d31
+
+
+***********************************
+hai git add commit is the best place in the word to working in repositery git pull git push all are in 
