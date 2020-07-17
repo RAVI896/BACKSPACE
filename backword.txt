@@ -22,4 +22,6 @@ my git fetch+git pull
 
 
 ***********************************
-hai git add commit is the best place in the word to working in repositery git pull git push all are in 
+hai git add commit is the best place in the word to working in repositery git pull git push all are in
+wat is the git pull and git push
+git pull the ************
