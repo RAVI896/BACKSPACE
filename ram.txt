@@ -10,5 +10,10 @@ u do the best in the git
 
 hi ram the is the small things in the better world in the git will internal mesger
 
+<<<<<<< HEAD
 
 git add one .txt file
+=======
+apples are very sweet freutes
+
+>>>>>>>  apple are sweet
