@@ -1,1 +1,6 @@
 hai git this my my fast forward merge and recursive merge this will help to me to find something in the git bash command tooles
+
+hai this is fast forward merge 
+it wil be the recursive merge
+i will test it in locale in my repositery in my new command list
+
