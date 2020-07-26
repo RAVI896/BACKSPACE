@@ -4,3 +4,6 @@ hai this is fast forward merge
 it wil be the recursive merge
 i will test it in locale in my repositery in my new command list
 
+
+hai this is recusive merge in the commit 
+u do the best in the git
